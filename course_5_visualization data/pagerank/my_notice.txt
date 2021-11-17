@@ -1,0 +1,30 @@
+1) in gmane.py (line 86) is that neccessary to use
+if start is None : start = 0 from previous try/except block we will have already
+start = 0 or, if cur.fetchone() returns None, we can put this if statement just
+below (78 line) row of code
+
+2) line 155 what if ln line if len(x) == 1 : there will be 0 matches will we start
+again with x = re.findall('\nFrom: (\S+@\S+)\n', hdr) ?
+I think here we should add additional elif statement if len(x) == 0 : continue
+just before line 151
+
+3) when we type curl -0 https://www.py4e.com/data_space/content.sqlite.zip
+we've got an errors:
+Warning: Binary output can mess up your terminal. Use "--output -" to tell
+Warning: curl to output it to your terminal anyway, or consider "--output
+Warning: <FILE>" to save to a file.
+I've used
+1. curl --output content.sqlite.zip https://www.py4e.com/data_space/content.sqlite.zip
+2. unzip content.sqlite.zip
+
+4) while finishing execute file gmane.py last message that we have 60422
+after trying to retrieve for instance 2 message it blows up and we have
+"Did not find From" but the count became 60424 but it should be 60422 that indicates
+that it was the last message we interpreted
+
+5) Just one question
+in gmodel.py very interesting in the (184 line)
+gmane.org why are we skipping that ?
+
+6) line 176 in gmodel.py blowsup with an error
+conn_1 = sqlite3.connect('file:content.sqlite?mode=ro', uri=True)#read only

@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /code3/pagerank/bs4/tests</title>
+ </head>
+ <body>
+<h1>Index of /code3/pagerank/bs4/tests</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=D">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/code3/pagerank/bs4/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="__init__.py">__init__.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 27 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="test_htmlparser.py">test_htmlparser.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">1.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="test_docs.py">test_docs.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">1.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="test_lxml.py">test_lxml.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">2.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="test_lxml.py.bak">test_lxml.py.bak</a></td><td align="right">2019-08-12 00:51  </td><td align="right">2.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="test_html5lib.py">test_html5lib.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">3.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="test_html5lib.py.bak">test_html5lib.py.bak</a></td><td align="right">2019-08-12 00:51  </td><td align="right">3.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="test_builder_registry.py">test_builder_registry.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">5.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="test_soup.py">test_soup.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 19K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="test_soup.py.bak">test_soup.py.bak</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 19K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="test_tree.py">test_tree.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 74K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="test_tree.py.bak">test_tree.py.bak</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 74K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.39 (Ubuntu) Server at www.py4e.com Port 80</address>
+</body></html>

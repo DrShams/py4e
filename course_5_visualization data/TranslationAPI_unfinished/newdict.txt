@@ -1,0 +1,154 @@
+The Anatomy of a Search Engine.html
+crawl
+				[RU]ползать
+				[SP]gatear
+distinct
+				[RU]отчетливый
+				[SP]distinto
+exploit
+				[RU]эксплуатировать
+				[SP]explotar
+Retrieval
+				[RU]поиск
+				[SP]Recuperación
+inexperienced
+				[RU]неопытный
+				[SP]inexperto
+indices
+				[RU]индексы
+				[SP]índices
+Scaling
+				[RU]Масштабирование
+				[SP]Escalada
+foreseeable
+				[RU]предсказуемый
+				[SP]previsible
+scalability
+				[RU]масштабируемость
+				[SP]escalabilidad
+robustness
+				[RU]надежность
+				[SP]robustez
+favorable
+				[RU]благоприятный
+				[SP]favorable
+citation
+				[RU]цитата
+				[SP]citación
+eigenvector
+				[RU]собственный вектор
+				[SP]vector propio
+Justification
+				[RU]Обоснование
+				[SP]Justificación
+probability
+				[RU]вероятность
+				[SP]probabilidad
+propagating
+				[RU]распространение
+				[SP]propagador
+crawled
+				[RU]пополз
+				[SP]gateó
+anchors
+				[RU]якоря
+				[SP]anclas
+query
+				[RU]запрос
+				[SP]consulta
+vehemently
+				[RU]яростно
+				[SP]vehementemente
+heterogeneous
+				[RU]неоднородный
+				[SP]heterogéneo
+implemented
+				[RU]реализовано
+				[SP]implementado
+fetched
+				[RU]доставлен
+				[SP]traído
+width
+				[RU]ширина
+				[SP]anchura
+batch
+				[RU]партия
+				[SP]lote
+occurrences
+				[RU]происшествия
+				[SP]ocurrencias
+plain
+				[RU]простой
+				[SP]llanura
+buckets
+				[RU]ведра
+				[SP]cubos
+stack
+				[RU]стек
+				[SP]apilar
+occurrences
+				[RU]происшествия
+				[SP]ocurrencias
+scalable
+				[RU]масштабируемый
+				[SP]escalable
+capitalization
+				[RU]заглавные буквы
+				[SP]capitalización
+count-weight
+				[RU]счет-вес
+				[SP]conteo-peso
+bins
+				[RU]мусорные ведра
+				[SP]contenedores
+type-prox-weights
+				[RU]тип-прокс-веса
+				[SP]type-prox-weights
+scope
+				[RU]объем
+				[SP]alcance
+scale
+				[RU]масштаб
+				[SP]escala
+Inverted
+				[RU]Перевернутый
+				[SP]Invertido
+bottleneck
+				[RU]горлышко бутылки
+				[SP]embotellamiento
+subindices
+				[RU]субиндексы
+				[SP]subíndices
+scalable
+				[RU]масштабируемый
+				[SP]escalable
+negation
+				[RU]отрицание
+				[SP]negación
+bookmarks
+				[RU]закладки
+				[SP]marcadores
+subjectively
+				[RU]субъективно
+				[SP]subjetivamente
+spark
+				[RU]искра
+				[SP]Chispa - chispear
+irreplaceable
+				[RU]незаменимый
+				[SP]insustituible
+predominant
+				[RU]преобладающий
+				[SP]predominante
+insidious
+				[RU]коварный
+				[SP]insidioso
+viable
+				[RU]жизнеспособный
+				[SP]viable
+drastically
+				[RU]коренным образом
+				[SP]drásticamente
+pertinent
+				[RU]уместно
+				[SP]pertinente

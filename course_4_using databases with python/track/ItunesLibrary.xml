@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-10-27T18:01:23Z</date>
+	<key>Application Version</key><string>12.10.10.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/1/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>2EEBEA7C2313DA66</string>
+	<key>Tracks</key>
+	<dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>69</integer>
+			<key>Playlist Persistent ID</key><string>997F88C87D7FA2AC</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>72</integer>
+			<key>Playlist Persistent ID</key><string>3F59B702152C9998</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>75</integer>
+			<key>Playlist Persistent ID</key><string>FCA1E1B0ED31C053</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>87</integer>
+			<key>Playlist Persistent ID</key><string>BAD0F4E8A44C1297</string>
+			<key>Distinguished Kind</key><integer>66</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>90</integer>
+			<key>Playlist Persistent ID</key><string>070C6AC34823FA89</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>96</integer>
+			<key>Playlist Persistent ID</key><string>0D07AE2CE6D9E6B0</string>
+			<key>Distinguished Kind</key><integer>67</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>99</integer>
+			<key>Playlist Persistent ID</key><string>03FC6F75185F75BC</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>102</integer>
+			<key>Playlist Persistent ID</key><string>EB166949D92E1AF9</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Audiobooks</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>109</integer>
+			<key>Playlist Persistent ID</key><string>830C4CB2D883146E</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>

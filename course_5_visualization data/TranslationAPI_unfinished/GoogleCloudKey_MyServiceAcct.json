@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "maranzano",
+  "private_key_id": "991c3724db57e0e0b49b7ae1d0ebe61626d04478",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDoDY6xaIbsBhqT\nRYx431/jZfMnuXkXUZv/7XZpaf9TBk7mgNG0wTx5Uy0qa+PJwDjIv9uiQPdUvZCv\nJhya8otrBloyd62Vepfl5XA7yXDI5SDg9eQmdLJ0krpCByHfl3m62OW7Mj+yXT+9\nqvDt1ACRQQFmyd6P10RFxwb3Tpbnr2En12elPot5yP2ng1rYKn+4F2vhy6nEZr13\nYXrJHW55KQcoQIVmv4MiKsBBoPDUBJjr2OIzEmLaPtlkD7O9cqwjIEQemwUJg4vy\nm1T37o9bbbFhRfk0AihzI65PJCjLaHupu9MW5iedLHtmJD+BVyCsqd5xIh0NSi/6\nW77nQ1Y/AgMBAAECggEATHajLUwvITjFqv+A0RdxxkGCxPU1tHxcthEuMoAN9PKg\nLw4Fi9UcszG4MUFJ1uHzFBs8KRPVK+Qm97/MLzZ6wDJgqD6NQTMbOFLJD7pJ4ri1\ng8sieZV8dDMhEr6856tHHk14LZ3aJVDavwnDx+pSoYpVBuS/5I/fXEq/vd/0k7Sy\nwsEtEg1VQTdODER390ZeaC0qW+qEaZFAv1wZ3cLSdBuUzkedjoNmgNrXS8W8/QaQ\nAfd9yF+wTDu7G8YKG1UnJPZWGrPBRoSe7W9GiVIErcrRYmcwGRZLZ/GkFHZps6pd\ngmvmLO/KN3TxTroiLQWOilkp+JF3nBW0yi6zlKBz4QKBgQD9qkw8mq2uuzKnmT1M\nQhRs6sO39wwU4EREeEOnWnv3eRXAymi2UfbFi7dyWMJBRbRWe9EL6UDOTOAEohrn\nwT0PifgsqlhEUMIO14NKUQKJwxmC7bzW+iG1dUtEB236IoWLsMM4EGz03icxNx2o\nv01yp1KqOrauuTMdNxexVyvK7wKBgQDqMFXcLoovO+5dgWlGMwBlKUzMDU5UrH4/\nR/b80XRO4pq284mwZmRFzksXfWJDRFid2p8Ilsj0O0nzepDsWw4SK7icNptOkhBK\n8skvZ/Sj4T2VoY9vNOGd8B4AWKJY+s0KNZQtnwTO2DW07SgIKD1MxFJaBSKI8oXn\nRQIxEEBpsQKBgFs+pMmwAgW2RJRQ5OHHaz16fQhxjyD7QtM2R2+tdqYgIhkFNgFP\nHmsUxNoW31lHT4VEaH/WWX9b28EO5oqy0doDEQhQBgwc2JEqKInU9grD6StVhPX3\nZ6S0GmzQF1lAjbUf0jkaf3bdak+jucF3fs5dLbkaAZh7+czqglVCO/h1AoGAEZIA\nzx06xuJzNta/xEGNVQmtNl4FM3shmbPXhw5b8JM10mYhPXfhLA+XOLLyjWNyVp2R\ncv6FIzXTjY3zk5gdTSW0mxvJuTJiQI1IpOLiyuzaRwCxF0Hbb5MVXSdJPu3KNmrg\nrC+TF8XG+cUVTM9gEgNkvlZGSgoQG9LkoDO88XECgYAujLbWpN6Y809oLEYTEjF/\nXWMa042SFCIdSwpJP4cMiyRpDv2DWkr0B0p673xorr1fL/ozcy5YManNNzcFT7GW\npcsHXQ0M8l9ffpYSUdiMqShbNsPYwYNJM1S8nP3fx9C2qUDUVqKQkbXDOXkpBBZZ\n6YBhaFYygpiWYL8pO88zjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "myserviceacct@maranzano.iam.gserviceaccount.com",
+  "client_id": "108634476043002436813",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myserviceacct%40maranzano.iam.gserviceaccount.com"
+}

@@ -1,0 +1,43 @@
+1)  What is "serialization" when we are talking about web services?
+    the act of taking data stored in a program and formatting it so it can be send across the newtwork
+
+    Serialization is a process of converting an object into a stream of data so that it can be easily transmittable over the network or can be continued in a persistent storage location.
+    Serialization is the technology that enables an object to be converted into a linear stream of data that can be easily passed across process boundaries and machines.
+    Types of Serialization:
+    Binary Serialization
+    SOAP Serialization
+    XML Serialization
+
+    The reverse process of serialization is known as de-serialization and enables us to reconstruct the object from the previously serialized instance of the same in the persistent or non-persistent storage media.
+
+2)  Which of the following are not commonly used serialization formats?
+    http
+    tcp
+    dictionaries
+
+3)  What is the purpose of XML Schema?
+    To establish a contract as to what is valid xml?
+
+    An XML schema is a description of a type of XML document, typically expressed in terms of constraints on the structure and content of documents of that type, above and beyond the basic syntactical constraints imposed by XML itself. These constraints are generally expressed using some combination of grammatical rules governing the order of elements, Boolean predicates that the content must satisfy, data types governing the content of elements and attributes, and more specialized rules such as uniqueness and referential integrity constraints.
+
+For this XML Schema
+<xs:complexType name=”person”>
+  <xs:sequence>
+    <xs:element name="lastname" type="xs:string"/>
+    <xs:element name="age" type="xs:integer"/>
+    <xs:element name="dateborn" type="xs:date"/>
+  </xs:sequence>
+</xs:complexType>
+
+And this XML,
+<person>
+   <lastname>Severance</lastname>
+   <Age>17</Age>
+   <dateborn>2001-04-17</dateborn>
+</person>
+
+Which tag is incorrect
+”person” is CORRECT despite of - ””
+lastname is CORRECT xs:string all right!
+    ?#Age "age"
+    ?#dateborn i see all correct
